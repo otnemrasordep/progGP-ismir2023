@@ -1,4 +1,4 @@
-# Progressive Metal Guitar Tablutare Generation with Transformers
+# Progressive Metal Tablutare Generation with Transformers
 
 This repository is part of a tutorial at ISMIR 2023.
 
