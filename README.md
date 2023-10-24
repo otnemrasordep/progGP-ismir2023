@@ -11,7 +11,7 @@ This repository is part of _Transformer-based Symbolic Music Generation: Fundame
  
 To follow the tutorial, please go into this [link](https://githubtocolab.com/otnemrasordep/progGP-ismir2023/blob/main/progmetaltabgenerator_ismir2023tutorial.ipynb) or click on ```Open in Colab``` above.
 
-The contents within this notebook are part of a on-going collaboration, and account for contributions from [Pedro Sarmento](https://github.com/otnemrasordep), [Adarsh Kumar](https://github.com/AdarshKumar712), [Jack Loth](https://github.com/JackJamesLoth) and [Dadabots](https://github.com/dada-bots).
+The contents within this repository are part of a on-going collaboration, and account for contributions from [Pedro Sarmento](https://github.com/otnemrasordep), [Adarsh Kumar](https://github.com/AdarshKumar712), [Jack Loth](https://github.com/JackJamesLoth) and [Dadabots](https://github.com/dada-bots).
 
 
 ## Citation
